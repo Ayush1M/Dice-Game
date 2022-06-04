@@ -22,14 +22,6 @@ This is a dice game which focuses on the concepts of Javascript.
 
 ![](./images/passwordgeneratordesktop.png)
 
-#### Mobile
-
-![](./images/passwordgeneratormobile.png)
-
-#### Output
-
-![](./images/passwordgeneratoroutput.png)
-
 
 ## Technologies I Used
 * Semantic HTML5
