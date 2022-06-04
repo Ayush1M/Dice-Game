@@ -12,8 +12,9 @@
 This is a dice game which focuses on the concepts of Javascript. 
 
 ### Goal of the Project
-* The Goal of this project is to generate a random unique password which contains Uppercase, Lowercase, Numbers and Symbols.
-* To apply the JS concepts like for loop, using DOM, functions.
+* Add a Roll button to roll the dice.
+* Add a reset button to restart the game.
+* Add message to show which player won or the game is tied.
 
 ## Screenshot
 
