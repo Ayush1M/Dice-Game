@@ -32,6 +32,5 @@ This is a dice game which focuses on the concepts of Javascript.
 
 ## What I Learned
 * Learned about DOM.
-* Learned about functions.
-* Learned about For loops.
-* Learned about how to choose a random character for password using arrays.
+* Learned about event listeners and added functionality by creating a reset and roll button.
+* Learned how to display the score and display the message.
