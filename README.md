@@ -9,7 +9,7 @@
  * [What I Learned](#what-i-learned) 
 
 # Overview of the Project
-The project is used to generate a random unique password. This project focuses on applying the concepts of HTML, CSS and Javascript.
+This is a dice game which focuses on the concepts of Javascript. 
 
 ### Goal of the Project
 * The Goal of this project is to generate a random unique password which contains Uppercase, Lowercase, Numbers and Symbols.
