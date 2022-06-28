@@ -20,8 +20,6 @@ This is a dice game which focuses on the concepts of Javascript.
 
 ## Screenshot
 
-#### Desktop
-
 ![](./dicegameimage.png)
 
 
