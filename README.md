@@ -22,7 +22,7 @@ This is a dice game which focuses on the concepts of Javascript.
 
 #### Desktop
 
-![](./images/passwordgeneratordesktop.png)
+![](./dicegameimage.png)
 
 
 ## Technologies I Used
