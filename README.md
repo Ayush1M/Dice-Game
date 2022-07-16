@@ -9,7 +9,7 @@
  * [What I Learned](#what-i-learned) 
 
 # Overview of the Project
-This is a dice game which focuses on the concepts of Javascript. 
+This is a 1v1 dice game in which the player with highest score wins. This project focuses on the concepts of vanilla Javascript and HTML and CSS for styling. 
 
 ### Goal of the Project
 * To add two player functionality.
