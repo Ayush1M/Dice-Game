@@ -7,6 +7,7 @@
       * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
+ * [Acknowledgment](#acknowledgment)
 
 # Overview of the Project
 This is a 1v1 dice game in which the player with highest score wins. This project focuses on the concepts of vanilla Javascript and HTML and CSS for styling. 
@@ -33,3 +34,6 @@ This is a 1v1 dice game in which the player with highest score wins. This projec
 * Learned about event listeners and added functionality by creating a reset and roll button.
 * Learned about if-else loops.
 * Learned how to display the score and display the message.
+
+## Acknowledgment
+   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
